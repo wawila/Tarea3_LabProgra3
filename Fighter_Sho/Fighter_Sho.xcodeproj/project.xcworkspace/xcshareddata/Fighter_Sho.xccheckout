@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B396233D-59E9-44C6-BA66-049EF0FC028C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Fighter_Sho</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>742BB25F17C67EBE535A31FD2D9C7AECEE637342</key>
+		<string>https://github.com/wawila/Tarea2_LabProgra3.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Fighter_Sho/Fighter_Sho.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>742BB25F17C67EBE535A31FD2D9C7AECEE637342</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wawila/Tarea2_LabProgra3.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>742BB25F17C67EBE535A31FD2D9C7AECEE637342</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>742BB25F17C67EBE535A31FD2D9C7AECEE637342</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Lab_Sho</string>
+		</dict>
+	</array>
+</dict>
+</plist>
